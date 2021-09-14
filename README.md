@@ -1,2 +1,0 @@
-# Okteto-HelloWorld
-Okteto-HelloWorld
